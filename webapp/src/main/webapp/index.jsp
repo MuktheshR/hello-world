@@ -36,7 +36,7 @@ Gender :
 </label><br>  
 <input type="radio" name="male"/> Male <br>  
 <input type="radio" name="female"/> Female <br>    
-<input type="radio" name="female"/> ohoh <br>
+<input type="radio" name="female"/> ohohmon <br>
 <br>  
 <br>  
   

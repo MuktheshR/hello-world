@@ -27,19 +27,7 @@
   </build>
 
   <dependencies>
-  <reporting>
-    <plugins>
-      <plugin>
-        <groupId>org.apache.maven.plugins</groupId>
-        <artifactId>maven-site-plugin</artifactId>
-        <version>3.9.1</version>
-               <configuration>          <port>9000</port>
-          <tempWebappDirectory>${basedir}/target/site/tempdir</tempWebappDirectory>
-
-        </configuration>
-      </plugin>
-    </plugins>
-  </reporting>
+ 
     <dependency>
       <groupId>javax.servlet</groupId>
       <artifactId>servlet-api</artifactId>
